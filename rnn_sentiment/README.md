@@ -1,0 +1,1 @@
+This RNN is trained on IMDB reviews to predict sentiment: positive or negative. The reviews are preprocessed to have a uniform length of 200. An embedding layer is used as a lookup table to encode the 74000 words in this project. The network eventually achieved 81% accuracy in test.

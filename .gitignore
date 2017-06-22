@@ -1,0 +1,6 @@
+.DS_Store
+*/MNIST_data
+*/checkpoints
+gan_mnist/train_samples.pkl
+*/__pycache__
+*/data
